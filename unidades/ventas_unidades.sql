@@ -1,0 +1,1 @@
+select * from tx_salidac;
